@@ -1,0 +1,74 @@
+			<?php $page_title = "Assistive Technology"; ?>
+			<?php include_once('includes/header/header.inc'); ?>
+			<!-- Include the header -->
+			<div id="assistive-page" class="grid_12">
+				<div id="main">
+					<div class="grid_3 alpha">
+						<?php include_once('includes/links/links.inc'); ?>
+					</div>
+					
+					<div class="grid_9 omega">
+						<div id="assistive-page-result">
+							<h4 class="assistive-h4-img">Assistive Technology</h4>
+							<img class="assistive-img" src="images/Accessibility.png" />
+							<div class="clear"></div>
+							<p class="normal">
+								DeSales University complies with Section 504 of the Rehabilitation Act of 1973 and the Americans with Disabilities Act of 1990 with 
+								respect to the accommodation of disabilities. The University will provide reasonable accommodations so that students can fully 
+								participate in the academic life of the University.
+							</p>
+							<p class="normal">
+								Students with documented disabilities should be directed to the <a href="http://www.desales.edu/default.aspx?pageid=757" target="_BLANK">Academic Resource Center</a>, 
+								located in Dooling Hall Room 19B, for assistance.
+							</p>
+							<p class="normal">
+								The following list provides an overview of the assistive technology in Room 19B.
+								<ul>
+									<li>Study corals for individual test taking</li>
+									<li><a href="http://www.kurzweiledu.com/">Kurzweil</a> scanner and Kurzweil software (also located in Trexler Library)</li>
+									<li><a href="http://www.nuance.com/naturallyspeaking/">Dragon Naturally Speaking</a></li>
+									<li><a href="http://www.inspiration.com/">Inspiration software</a></li>
+								</ul>
+							</p>
+							<hr style="margin-bottom: 20px;" />
+							<p class="normal">
+								In addition to these assistive technologies, all rooms are wheelchair accessible with elevator access
+								to all levels. DEIT has the following resources available for short-term classroom use:
+								<ul>
+									<li><a target="_BLANK" href="http://www.olympusamerica.com/cpg_section/product.asp?product=1459">Olympus</a> Digital Voice Recorder (2)</li>
+									<li>Wireless Microphone (1)</li>
+									<li><a target="_BLANK" href="http://www.plantronics.com/north_america/en_US/products/cat640035/cat1430032/audio-470-usb">Plantronics</a> Headset with mic (6)</li>
+									<li><a target="_BLANK" href="http://www.logitech.com/en-us/webcam_communications/webcams/devices/5864">Logitech</a> Web Camera (2)</li>
+									<li><a target="_BLANK" href="htpp://deit.desales.edu/deit/assets/intuos2usersmanual_win.pdf">Wacom Intuos2</a> Graphics Tablet (1)</li>
+									<li><a target="_BLANK" href="http://www.wacom.com/bamboo/bamboo_fun.php">Wacom Bamboo Fun</a> Graphic Tablet</li>
+									<li><a target="_BLANK" href="http://www.livescribe.com/smartpen/index.html">Livescribe Pulse pen</a> (1)</li>
+								</ul>
+							</p>
+							<p class="normal">
+								Contact <a href="mailto:deit@desales.edu">DEIT</a> at 610.282.1100, ext. 2290 to request any of the above resources.
+							</p>
+							<hr style="margin-bottom: 20px;" />
+							<h4 class="assistive-h4-img-contact">Contact</h4>
+							<img class="assistive-img-contact" src="images/email.png" />
+							<div class="clear"></div>
+							<p class="normal">
+								For more specific information, please visit the ARC web page <a href="http://www.desales.edu/default.aspx?pageid=757">here</a>
+								or contact the ARC directly at 610.282.1100, ext. 1293.
+							</p>
+						</div>
+					</div>
+				</div>				
+			</div>
+			
+			<div class="clear"></div>
+			
+			<!-- Include the footer -->
+			<?php include_once('includes/footer/footer.inc'); ?>
+			
+		<!-- Close the containter_12 div -->
+		</div>
+		<script type="text/javascript">
+			google.setOnLoadCallback(function() {})
+		</script>
+	</body>
+</html>
