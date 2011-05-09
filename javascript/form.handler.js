@@ -4,14 +4,22 @@
  * Author: Stephen Turoscy
  * Website URI: http://deit.desales.edu/deit
  * JavaScript URI: http://deit.desales.edu/deit/javascript/form.handler.js
- * Last Updated: April 13, 2010
+ * Last Updated: May 09, 2011
+ * Additional Notes:	The following comment can be removed within a months
+ * 						time from the last updated date above. "Switching 
+ * 						checked/unchecked, enabled/disabled code for newer 
+ * 						version of attr." The deprecated code following that
+ * 						comment can also be removed.
  */
 
 google.setOnLoadCallback(function() {	
 	//Disable the form until the check box is checked
 	$("#request-page #technology-request form input, textarea").attr("disabled", "disabled");
 	$("#request-page #technology-request form a").css({"opacity" : "0.0", "visibility" : "hidden"});
-	$("#request-page #technology-request form #installed").attr("disabled", "").attr("checked", false);
+	
+	//Switching checked/unchecked, enabled/disabled code for newer version of attr
+	//$("#request-page #technology-request form #installed").attr("disabled", "").attr("checked", false);
+	$("#request-page #technology-request form #installed").removeAttr("disabled").attr("checked", false);
 
 	//Add background colors and disabled icons
 	$("#request-page #technology-request form input.required").attr("disabled", function(){
@@ -23,8 +31,11 @@ google.setOnLoadCallback(function() {
 	//Enable the building and room check input text box when checkbox is enabled (checked)
 	$("#request-page #technology-request form #installed").change(function() {
 		if ($("input[name=installed]").is(":checked")) {
-			//Check box is checked and the requirements are met
-			$("#request-page #technology-request form input, textarea").attr("disabled", "");
+			//Check box is checked and the requirements are met			
+			//Switching checked/unchecked, enabled/disabled code for newer version of attr
+			//$("#request-page #technology-request form input, textarea").attr("disabled", "");
+			$("#request-page #technology-request form input, textarea").removeAttr("disabled");
+			
 			$("#request-page #technology-request form a").css({"visibility" : "visible"}).animate({
 				opacity : 1.0
 			}, 3000);
@@ -37,7 +48,10 @@ google.setOnLoadCallback(function() {
 			$("#request-page #technology-request form a").animate({
 				opacity : 1.0
 			}, 3000).css({"visibility" : "hidden"});
-			$("#request-page #technology-request form #installed").attr("disabled", "");
+			
+			//Switching checked/unchecked, enabled/disabled code for newer version of attr
+			//$("#request-page #technology-request form #installed").attr("disabled", "");
+			$("#request-page #technology-request form #installed").removeAttr("disabled");
 
 			//Add background colors and disabled icons
 			$("#request-page #technology-request form input.required").css({"background" : "url('images/disabled.png') #E6E6E6 no-repeat 4px 4px", "padding-left" : "25px"});
