@@ -527,12 +527,12 @@ blockquote ul {list-style-type: decimal; margin-left: 35px;}
 /* End Hardware Reference configs */
 
 /* Hardware Loan configs */
-	#hardware-loan-page #main{height: 870px;}
-		#hardware-loan-page #main #links {height: 830px;}
+	#hardware-loan-page #main{height: 900px;}
+		#hardware-loan-page #main #links {height: 860px;}
 
 		#hardware-loan-page #main #hardware-loan-page-result {
 			border-right: 1px solid #AAAAAA;
-			height: 840px;
+			height: 870px;
 			padding: 20px 10px 10px 0px;
 		}
 		

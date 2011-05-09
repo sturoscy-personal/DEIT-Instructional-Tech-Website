@@ -21,6 +21,7 @@
 									<li><a target="_BLANK" href="http://www.wacom.com/bamboo/bamboo_fun.php">Wacom Bamboo Fun</a> Graphic Tablet</li>
 									<li><a target="_BLANK" href="http://www.livescribe.com/smartpen/index.html">Livescribe Pulse pen</a> (1)</li>
 									<li><a target="_BLANK" href="http://store.apple.com/us/tab?node=home/shop_mac/family/macbook&tcid=tg_tabcontroller&tab=1">Apple MacBook</a> (1)</li>
+									<li><a target="_BLANK" href="http://www.apple.com/ipad/specs/">Apple 16GB iPad 2</a> (2)</li>
 								</ul>
 							</p>
 							
