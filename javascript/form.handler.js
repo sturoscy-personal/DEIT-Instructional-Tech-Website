@@ -8,7 +8,7 @@
  * Additional Notes:	The following comment can be removed within a months
  * 						time from the last updated date above. "Switching 
  * 						checked/unchecked, enabled/disabled code for newer 
- * 						version of attr." The deprecated code following that
+ * 						version of attr." The deprecated (and commented) code following that
  * 						comment can also be removed.
  */
 
