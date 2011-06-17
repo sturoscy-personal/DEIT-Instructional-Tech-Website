@@ -1,5 +1,5 @@
-<?php require_once('includes/breadcrumbs/breadcrumb.php'); $last_updated = "Wednesday, March 23, 2011"; ?>
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<?php require_once('includes/breadcrumbs/breadcrumb.php'); $last_updated = "Thursday, June 16, 2011"; ?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -66,6 +66,7 @@
 			google.load("jquery", "1");
 			google.load("jqueryui", "1");
 		</script>
+		<script src="javascript/ipadform.handler.js"></script>
 		<!-- Load all plugins -->
 		<script src="javascript/datatables/jquery.datatables.min.js"></script>
 		<script src="javascript/lightbox/js/jquery.lightbox-0.5.min.js"></script>

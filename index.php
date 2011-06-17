@@ -62,6 +62,30 @@
 									<input id="submit" name="Submit" type="button" value="Submit" />
 								</form>
 							</div>
+							
+							<!-- Code for iPad form -->
+							<div id="ipad-form">
+								<p>
+									If you are interested in checking out an iPad 2 for educational use, please fill out the form below.
+									Once your request is received, a member of DEIT will be in contact with you. The DEIT department will
+									also let you know where you can pick up your iPad.
+								</p>
+								<p>
+									Please contact DEIT at 610.282.1100 x2290 or at <a href="mailto:deit@desales.edu">deit@desales.edu</a> if
+									you have any questions.
+								</p>
+								<hr style="margin-bottom: 15px;"/>
+								<form>
+									<label for="ipad-full-name">Full Name:</label><br  />
+									<input id="ipad-full-name" name="ipad-full-name" type="text"/><br />
+									
+									<label for="ipad-email">E-mail Address:</label><br />
+									<input id="ipad-email" name="ipad-email" type="text" /><br />
+									
+									<input id="ipad-submit" name="Submit" type="button" value="Submit" />
+								</form>
+							</div>
+							
 						</div>
 					</div>
 					
@@ -94,6 +118,7 @@
 			<?php include_once('includes/footer/footer.inc'); ?>
 		
 		<div id="quickhelp-result"></div>
+		<div id="ipad-result"></div>
 		<!-- Close the container_12 div -->	
 		</div>
 	</body>

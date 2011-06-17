@@ -9,9 +9,24 @@
 							<a href="request.php">Request Software</a><br />
 							<a href="assistive.php">Assistive Technology</a>
 							
-							<!-- If on homepage, display the DEIT motto... if not, display nothing. -->
+							<!-- If on homepage, display the DEIT motto and iPad link... 
+								 if not, display nothing. -->
 							<?php if ($page_title == 'Technology Home') : ?>
-								<br /><br /><div class="hr"><hr /></div><br />
+								<table>
+									<tr>
+										<td valign="top">
+											<img class="ipad" src="images/ipad_small.png" />
+										</td>
+										<td valign="top">
+											<p class="ipad">
+												<span class="bold red">New!</span> Three iPad 2's for faculty use.
+											</p>
+										</td>
+									</tr>
+								</table>
+								<a id="open-ipad-form" href="">Click here to reserve one.</a>
+
+								<br /><div class="hr"><hr /></div><br />
 								
 								<p class="quote italics" style="padding-right: 25px;">									
 									The mission of the Distance Education and Instructional Technology Department is to support the effective 

@@ -59,6 +59,9 @@ div.hr hr {display: none;}
 	-moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 2px;
 	-webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 2px;
 }
+
+.ipad {border: none; margin: 10px 0 5px 0;}
+	p.ipad {color: #535353;}
 /* End Classes */
 
 /* Site Configs */
@@ -172,6 +175,7 @@ blockquote ul {list-style-type: decimal; margin-left: 35px;}
 	#open-form {margin-top: 10px;}
 	#open-form a {font-size: 1em; text-decoration: underline;}
 	
+	/* Information Form */
 	#info-form {margin-top: 20px;}
 		#info-form form {
 			background: url('../images/form-background.png') repeat-x;
@@ -214,6 +218,52 @@ blockquote ul {list-style-type: decimal; margin-left: 35px;}
 				margin-top: 15px; 
 				width: 115px;
 			}
+			
+	/* iPad Form */
+	#ipad-form {margin-top: 10px; padding-bottom: 20px;}
+		#ipad-form form {
+			background: url('../images/form-background.png') repeat-x;
+			border: 1px solid red;
+			height: 180px;
+			padding: 20px;
+			-moz-border-radius: 10px;
+			-webkit-border-radius: 10px;
+		}
+			#ipad-form h4 {color: white;}		
+			#ipad-form form input {
+				border: 1px solid red; 
+				height: 25px; 
+				font-size: 1.0em;
+				margin-bottom: 15px; 
+				width: 395px;
+				-moz-border-radius: 5px;
+				-webkit-border-radius: 5px;
+			}
+				#ipad-form form input:focus {border: 1px solid #AAAAAA;}			
+			#ipad-form form textarea {
+				border: 1px solid red;
+				color: black;
+				font-size: 1em;
+				font-family: Helvetica, sans-serif;
+				height: 100px;
+				resize: none;
+				width: 395px;
+				-moz-border-radius: 5px;
+				-webkit-border-radius: 5px;
+			}
+				#ipad-form form textarea:focus {border: 1px solid #AAAAAA;}
+			#ipad-form form label {color: white; font-weight: bold;}
+			#ipad-form #ipad-submit {
+				background: #535353;
+				border: 1px solid white;
+				color: white;
+				font-weight: bold;
+				height: 35px;
+				margin-top: 15px; 
+				width: 115px;
+			}
+			#ipad-form p {margin-bottom: 15px; text-align: justify;}
+				#ipad-form p a {font-size: 1.0em; color: #0967AD;}
 		
 	#contact {
 		background: white; 
