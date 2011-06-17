@@ -139,7 +139,7 @@ blockquote ul {list-style-type: decimal; margin-left: 35px;}
 	background: white;
 	border-bottom: 1px solid #AAAAAA; 
 	border-top: 1px solid #AAAAAA;
-	height: 590px;
+	height: 620px;
 	box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 15px;
 	-o-box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 15px;
 	-moz-box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 15px;
@@ -149,7 +149,7 @@ blockquote ul {list-style-type: decimal; margin-left: 35px;}
 		background: white; 
 		border-left: 1px solid #AAAAAA;
 		border-right: 1px solid #AAAAAA; 
-		height: 550px; 
+		height: 580px; 
 		padding: 20px;
 	}
 		.link-category-two {margin-top: 20px;}
@@ -269,7 +269,7 @@ blockquote ul {list-style-type: decimal; margin-left: 35px;}
 		background: white; 
 		border-left: 1px solid #AAAAAA; 
 		border-right: 1px solid #AAAAAA; 
-		height: 500px;
+		height: 530px;
 		padding: 45px 10px;
 	}
 		#contact p {color: #535353; font-size: 0.85em;}
