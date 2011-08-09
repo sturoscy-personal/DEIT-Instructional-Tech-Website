@@ -100,13 +100,17 @@
 							<div class="hr"><hr /></div>
 							<div id="contact-links">
 								<h4>Helpful Links</h4>
-								<a target="_blank" href="http://www.desales.edu">DeSales Homepage</a><br />
-								<a target="_blank" href="http://www.desales.edu/deit">DEIT Homepage</a><br />
-								<a target="_blank" href="http://www.desales.edu/angelinfo">ANGEL at DeSales</a><br />
-								<a target="_blank" href="http://www.desales.edu/workshops">Technology Workshops</a>
-								<a target="_blank" href="https://www7.desales.edu/secforms/technology/elluminate.html">Elluminate Request Form</a>
-								<a target="_blank" href="http://deit.desales.edu/deit/assets/InnovationProcessForm.pdf">Technology Innovation Form</a>
-								<a target="_blank" href="http://deit.desales.edu/deit/assets/StreamCopyWaiverv7.pdf">Streaming Media Request Form</a>
+								<ul>
+									<li><a target="_blank" href="http://www.desales.edu">DeSales Homepage</a></li>
+									<li><a target="_blank" href="http://www.desales.edu/deit">DEIT Homepage</a></li>
+									<li><a target="_blank" href="http://blogs.desales.edu/deit">DEIT Blog</a></li>
+									<li><a target="_blank" href="http://www.desales.edu/angelinfo">ANGEL at DeSales</a></li>
+									<li><a target="_blank" href="http://www.desales.edu/workshops">Technology Workshops</a></li>
+									<li><a target="_blank" href="https://www7.desales.edu/secforms/technology/elluminate.html">Elluminate Request Form</a></li>
+									<li><a target="_blank" href="http://deit.desales.edu/deit/assets/InnovationProcessForm.pdf">Technology Innovation Form</a></li>
+									<li><a target="_blank" href="http://deit.desales.edu/deit/assets/InnovationProposalRubric.pdf">Technology Innovation Rubric</a></li>
+									<li><a target="_blank" href="http://deit.desales.edu/deit/assets/StreamCopyWaiverv7.pdf">Streaming Media Request</a></li>
+								</ul>
 							</div>
 						</div>
 					</div>

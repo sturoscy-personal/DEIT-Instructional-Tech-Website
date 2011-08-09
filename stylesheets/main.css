@@ -281,6 +281,12 @@ blockquote ul {list-style-type: decimal; margin-left: 35px;}
 		}
 		#contact #contact-links {margin-top: 20px;}
 			#contact #contact-links h4 {margin-bottom: 10px;}
+			#contact #contact-links ul li {
+				font-size: 1em; 
+				list-style-image: url('../images/arrow-bullet.gif');
+				list-style-type: none;
+				margin-left: 20px;
+			}
 		
 #footer {margin-bottom: 35px;}
 	#footer-main {

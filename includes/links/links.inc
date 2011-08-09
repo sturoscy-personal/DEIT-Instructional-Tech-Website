@@ -19,7 +19,7 @@
 										</td>
 										<td valign="top">
 											<p class="ipad">
-												<span class="bold red">New!</span> Three iPad 2's for faculty use.
+												<span class="bold red">New!</span> Five iPad 2s for faculty use.
 											</p>
 										</td>
 									</tr>
