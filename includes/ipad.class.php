@@ -25,4 +25,15 @@
 		<h4>Thank you!</h4><br />
 		<p>A representative from DeSales University will be contacting you shortly.</p>
 	");
+	
+	/*
+	//E-mail the contents of the form to deit@desales.edu
+	//E-mail Setup
+	ini_set('SMTP', 'smtp.desales.edu');
+	ini_set('sendmail_from', 'deit@desales.edu');
+	
+	//Send the help desk ticket
+	$to      = 'helpdesk@desales.edu';
+	$subject = 'Request for Software Installation';
+	*/
  ?>

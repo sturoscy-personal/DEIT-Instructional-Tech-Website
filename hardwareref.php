@@ -168,6 +168,7 @@
 											<ul class="smaller">
 												<li><a target="_BLANK" href="http://smarttech.com/us/Solutions/Education+Solutions/Products+for+education/Interactive+whiteboards+and+displays/SMART+Board+interactive+whiteboards/600+for+education">Complete Technical Specifications</a></li>
 												<li><a target="_BLANK" href="http://deit.desales.edu/deit/assets/SMARTboard_600.pdf">Product Brochure</a></li>
+												<li><a target="_BLANK" href="http://deit.desales.edu/deit/assets/MobileSmartBoards.pdf">Instructional Effectiveness Series</a></li>
 												<li>Located in Dooling Room 128</li>
 											</ul>
 										</li>
