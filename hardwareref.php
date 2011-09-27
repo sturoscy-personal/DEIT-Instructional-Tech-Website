@@ -65,6 +65,12 @@
 												<li><a target="_BLANK" class="smaller" href="http://h10010.www1.hp.com/wwpc/ie/en/sm/WF06a/12454-12454-64287-3328896-3328896-3658082.html">Complete Technical Specifications</a></li>
 											</ul>
 										</li>
+										<li>
+											<p class="cufon">HP 6000 Pro (Small Form Factor)</p>
+											<ul>
+												<li><a target="_BLANK" class="smaller" href="http://h10010.www1.hp.com/wwpc/us/en/sm/WF05a/12454-12454-64287-321860-3328896-4024462.html">Complete Technical Specifications</a></li>
+											</ul>
+										</li>
 									</ul>
 									<h6 class="cufon">Notebooks</h6>
 									<p class="cufon">Available for checkout at Trexler Library's Circulation Desk</p>
@@ -164,11 +170,18 @@
 								<div>
 									<ul>
 										<li>
+											<p class="cufon">SMART Board SBX885 Series with UX60 Projector</p>
+											<ul class="smaller">
+												<li><a target="_BLANK" href="http://downloads01.smarttech.com/media/sitecore/en/support/product/smartboards-fpd/800series/specsheets/specsheetsbx885v24nov10.pdf">Technical Specifications</a></li>
+												<li><a target="_BLANK" href="http://smarttech.com/us/Support/Browse+Support/Product+Index/Hardware+Products/Front+Projection+SMART+Board+Interactive+Whiteboard/800+series">Support Page</a></li>
+												<li>Located on Lansdale Campus</li>
+											</ul>
+										</li>
+										<li>
 											<p class="cufon">SMART Board 600 Series </p>
 											<ul class="smaller">
 												<li><a target="_BLANK" href="http://smarttech.com/us/Solutions/Education+Solutions/Products+for+education/Interactive+whiteboards+and+displays/SMART+Board+interactive+whiteboards/600+for+education">Complete Technical Specifications</a></li>
 												<li><a target="_BLANK" href="http://deit.desales.edu/deit/assets/SMARTboard_600.pdf">Product Brochure</a></li>
-												<li><a target="_BLANK" href="http://deit.desales.edu/deit/assets/MobileSmartBoards.pdf">Instructional Effectiveness Series</a></li>
 												<li>Located in Dooling Room 128</li>
 											</ul>
 										</li>
@@ -178,6 +191,11 @@
 												<li><a target="_BLANK" href="http://deit.desales.edu/deit/assets/numonic_tutorial.pdf">Interactive Presentation Manager Tutorial</a></li>
 												<li>Located in Dooling Rooms 227 and 229</li>
 											</ul>
+										</li>
+										<li>
+											<p class="cufon">
+												<a target="_BLANK" href="http://deit.desales.edu/deit/assets/MobileSmartBoards.pdf">Instructional Effectiveness Series on White Boards</a>
+											</p>
 										</li>
 									</ul>
 								</div>

@@ -130,7 +130,7 @@ blockquote ul {list-style-type: decimal; margin-left: 35px;}
 
 #header {margin-top: 30px;}
 	#header-graphic {}
-	#site-navigation p {float: left; margin: 3px 10px 5px auto;}
+	#site-navigation p {float: left; margin: 3px 10px 15px auto;}
 	#site-navigation div {margin-bottom: 5px;}
 	
 #home-page {}

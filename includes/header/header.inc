@@ -1,4 +1,4 @@
-<?php require_once('includes/breadcrumbs/breadcrumb.php'); $last_updated = "Monday, July 18, 2011"; ?>
+<?php require_once('includes/breadcrumbs/breadcrumb.php'); $last_updated = "Tuesday, September 27, 2011"; ?>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
 <html>
 	<head>
@@ -97,6 +97,12 @@
 					<div class="breadcrumbs"><?php breadCrumb(getenv("SCRIPT_URL")); ?></div>
 				</div>
 				<div class="clear"></div>
-				<img id="header-graphic" src="images/it-header-graphic-spring-lessgreen.png" title="DeSales Instructional Technology" alt="DeSales Instructional Technology" />
+				<!--
+				<a href="http://www.desales.edu">
+					<img id="header-graphic" src="images/it-header-graphic-spring-lessgreen.png" title="DeSales Instructional Technology" alt="DeSales Instructional Technology" />
+				</a>
+				-->
+				<!-- New Header for Review -->
+				<img id="header-graphic" src="images/it-header-graphic-new.png" title="DeSales Instructional Technology" alt="DeSales Instructional Technology" />
 			</div>
 			<div class="clear"></div>

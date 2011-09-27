@@ -168,7 +168,7 @@
 														}
 													}
 													if ($mac[1] == 'Lansdale') {
-														if ($mac[3] == '21')
+														if ($mac[3] == '21' || $mac[3] == '103')
 														{
 															echo("<li>HD Video Conferencing Ready: <span class='bold'>Yes</span></li>");
 															echo("<li>Ceiling Mounted Microphones: <span class='bold'>Yes</span></li>");
