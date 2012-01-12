@@ -102,7 +102,8 @@
 					<img id="header-graphic" src="images/it-header-graphic-spring-lessgreen.png" title="DeSales Instructional Technology" alt="DeSales Instructional Technology" />
 				</a>
 				-->
-				<!-- New Header for Review -->
-				<img id="header-graphic" src="images/it-header-graphic-new.png" title="DeSales Instructional Technology" alt="DeSales Instructional Technology" />
+				<a href="http://www.desales.edu/" target="_blank">
+					<img id="header-graphic" src="images/it-header-graphic-new.png" title="DeSales University" alt="DeSales University" />
+				</a>
 			</div>
 			<div class="clear"></div>

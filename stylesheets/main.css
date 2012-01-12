@@ -141,6 +141,7 @@ blockquote ul {list-style-type: decimal; margin-left: 35px;}
 	border-top: 1px solid #AAAAAA;
 	height: 620px;
 	box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 15px;
+	margin-top: -6px;
 	-o-box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 15px;
 	-moz-box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 15px;
 	-webkit-box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 15px;

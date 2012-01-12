@@ -102,6 +102,7 @@
 								<h4>Helpful Links</h4>
 								<ul>
 									<li><a target="_blank" href="http://www.desales.edu">DeSales Homepage</a></li>
+									<li><a target="_blank" href="http://deit.desales.edu/feedback">Distance Education Feedback Form</a></li>
 									<li><a target="_blank" href="http://www.desales.edu/deit">DEIT Homepage</a></li>
 									<li><a target="_blank" href="http://blogs.desales.edu/deit">DEIT Blog</a></li>
 									<li><a target="_blank" href="http://www.desales.edu/angelinfo">ANGEL at DeSales</a></li>
