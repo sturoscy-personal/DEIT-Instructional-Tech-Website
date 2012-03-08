@@ -111,6 +111,8 @@
 									<li><a target="_blank" href="http://deit.desales.edu/deit/assets/InnovationProcessFormV2.pdf">Technology Innovation Form</a></li>
 									<li><a target="_blank" href="http://deit.desales.edu/deit/assets/InnovationProposalRubricFull.pdf">Technology Innovation Rubric</a></li>
 									<li><a target="_blank" href="http://deit.desales.edu/deit/assets/StreamCopyWaiverv7.pdf">Streaming Media Request</a></li>
+									<li><a target="_blank" href="http://deit.desales.edu/deit/mobile-statement.php">Mobile Technology Policy Statement</a></li>
+									<li><a target="_blank" href="http://deit.desales.edu/deit/mobile-tips.php">Tips for Mobile Device Owners</a></li>
 								</ul>
 							</div>
 						</div>

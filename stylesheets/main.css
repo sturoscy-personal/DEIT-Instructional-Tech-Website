@@ -629,3 +629,46 @@ blockquote ul {list-style-type: decimal; margin-left: 35px;}
 			#hardware-loan-page-result h4 {margin-bottom: 10px;}
 
 /* End Hardware Loan configs */
+
+/* Mobile Statement Page */
+	#mobile-statement-page #main{height: 650px;}
+		#mobile-statement-page #main #links {height: 610px;}
+
+		#mobile-statement-page #main #mobile-statement-page-result {
+			border-right: 1px solid #AAAAAA;
+			height: 620px;
+			padding: 20px 10px 10px 0px;
+		}
+			#mobile-statement-page #main #mobile-statement-page-result h4, p {
+				margin-bottom: 15px;
+			}
+
+			#mobile-statement-page #main #mobile-statement-page-result ul {
+				font-size: 0.85em;
+				list-style-image: url('../images/arrow-bullet.gif');
+				margin-left: 35px;
+			}
+
+/* End Mobile Statement Page */
+
+/* Mobile Tips Page */
+	#mobile-tips-page #main{height: 650px;}
+		#mobile-tips-page #main #links {height: 610px;}
+
+		#mobile-tips-page #main #mobile-tips-page-result {
+			border-right: 1px solid #AAAAAA;
+			height: 620px;
+			padding: 20px 10px 10px 0px;
+		}
+			#mobile-tips-page #main #mobile-tips-page-result h4, p {
+				margin-bottom: 15px;
+			}
+
+			#mobile-tips-page #main #mobile-tips-page-result ul {
+				font-size: 0.85em;
+				list-style-image: url('../images/arrow-bullet.gif');
+				margin-bottom: 15px;
+				margin-left: 35px;
+			}
+
+/* End Mobile Tips Page */
