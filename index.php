@@ -101,18 +101,24 @@
 							<div id="contact-links">
 								<h4>Helpful Links</h4>
 								<ul>
-									<li><a target="_blank" href="http://www.desales.edu">DeSales Homepage</a></li>
-									<li><a target="_blank" href="http://deit.desales.edu/feedback">Distance Education Feedback Form</a></li>
-									<li><a target="_blank" href="http://www.desales.edu/deit">DEIT Homepage</a></li>
-									<li><a target="_blank" href="http://blogs.desales.edu/deit">DEIT Blog</a></li>
 									<li><a target="_blank" href="http://www.desales.edu/angelinfo">ANGEL at DeSales</a></li>
-									<li><a target="_blank" href="http://www.desales.edu/workshops">Technology Workshops</a></li>
+									<hr />
+
 									<li><a target="_blank" href="https://www7.desales.edu/secforms/technology/elluminate.html">Elluminate Request Form</a></li>
+									<li><a target="_blank" href="http://deit.desales.edu/deit/assets/StreamCopyWaiverv7.pdf">Streaming Media Request</a></li>
 									<li><a target="_blank" href="http://deit.desales.edu/deit/assets/InnovationProcessFormV2.pdf">Technology Innovation Form</a></li>
 									<li><a target="_blank" href="http://deit.desales.edu/deit/assets/InnovationProposalRubricFull.pdf">Technology Innovation Rubric</a></li>
-									<li><a target="_blank" href="http://deit.desales.edu/deit/assets/StreamCopyWaiverv7.pdf">Streaming Media Request</a></li>
+									<li><a target="_blank" href="http://www.desales.edu/workshops">Technology Workshops</a></li>
+									<hr />
+
 									<li><a target="_blank" href="http://deit.desales.edu/deit/mobile-statement.php">Mobile Technology Policy Statement</a></li>
 									<li><a target="_blank" href="http://deit.desales.edu/deit/mobile-tips.php">Tips for Mobile Device Owners</a></li>
+									<hr />
+
+									<li><a target="_blank" href="http://blogs.desales.edu/deit">DEIT Blog</a></li>
+									<li><a target="_blank" href="http://www.desales.edu/deit">DEIT Homepage</a></li>
+									<li><a target="_blank" href="http://www.desales.edu">DeSales Homepage</a></li>
+									<li><a target="_blank" href="http://deit.desales.edu/feedback">Distance Education Feedback Form</a></li>
 								</ul>
 							</div>
 						</div>

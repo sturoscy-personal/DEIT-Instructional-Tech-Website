@@ -1,4 +1,4 @@
-<?php require_once('includes/breadcrumbs/breadcrumb.php'); $last_updated = "Tuesday, September 27, 2011"; ?>
+<?php require_once('includes/breadcrumbs/breadcrumb.php'); $last_updated = "Friday, March 23, 2012"; ?>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
 <html>
 	<head>
@@ -102,8 +102,8 @@
 					<img id="header-graphic" src="images/it-header-graphic-spring-lessgreen.png" title="DeSales Instructional Technology" alt="DeSales Instructional Technology" />
 				</a>
 				-->
-				<a href="http://www.desales.edu/" target="_blank">
-					<img id="header-graphic" src="images/it-header-graphic-new.png" title="DeSales University" alt="DeSales University" />
+				<a href="http://deit.desales.edu/">
+					<img id="header-graphic" src="images/it-header-graphic-malloy.png" title="DeSales University" alt="DeSales University" />
 				</a>
 			</div>
 			<div class="clear"></div>

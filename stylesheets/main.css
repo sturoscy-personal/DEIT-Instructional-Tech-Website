@@ -21,6 +21,13 @@
 div.hr {background: url('../images/hr.png') no-repeat; height: 3px;}
 div.hr hr {display: none;}
 
+hr {
+  border: 0;
+  border-top: 1px solid #C0C0C0;
+  border-bottom: 1px solid #E0E0E0;
+  margin: 5px 0 5px 0;
+}
+
 .open-form-h4-margin {float: left; margin-top: 13px;}
 .open-form-img {margin-left: 5px; margin-top: 12px;}
 
@@ -139,7 +146,7 @@ blockquote ul {list-style-type: decimal; margin-left: 35px;}
 	background: white;
 	border-bottom: 1px solid #AAAAAA; 
 	border-top: 1px solid #AAAAAA;
-	height: 620px;
+	height: 650px;
 	box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 15px;
 	margin-top: -6px;
 	-o-box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 15px;
@@ -150,7 +157,7 @@ blockquote ul {list-style-type: decimal; margin-left: 35px;}
 		background: white; 
 		border-left: 1px solid #AAAAAA;
 		border-right: 1px solid #AAAAAA; 
-		height: 580px; 
+		height: 610px; 
 		padding: 20px;
 	}
 		.link-category-two {margin-top: 20px;}
@@ -270,7 +277,7 @@ blockquote ul {list-style-type: decimal; margin-left: 35px;}
 		background: white; 
 		border-left: 1px solid #AAAAAA; 
 		border-right: 1px solid #AAAAAA; 
-		height: 530px;
+		height: 560px;
 		padding: 45px 10px;
 	}
 		#contact p {color: #535353; font-size: 0.85em;}
