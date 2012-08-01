@@ -104,7 +104,7 @@
 									<li><a target="_blank" href="http://www.desales.edu/angelinfo">ANGEL at DeSales</a></li>
 									<hr />
 
-									<li><a target="_blank" href="https://www7.desales.edu/secforms/technology/elluminate.html">Elluminate Request Form</a></li>
+									<li><a target="_blank" href="https://www7.desales.edu/secforms/technology/elluminate.html">Collaborate Request Form</a></li>
 									<li><a target="_blank" href="http://deit.desales.edu/deit/assets/StreamCopyWaiverv7.pdf">Streaming Media Request</a></li>
 									<li><a target="_blank" href="http://deit.desales.edu/deit/assets/InnovationProcessFormV2.pdf">Technology Innovation Form</a></li>
 									<li><a target="_blank" href="http://deit.desales.edu/deit/assets/InnovationProposalRubricFull.pdf">Technology Innovation Rubric</a></li>

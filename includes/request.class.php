@@ -49,12 +49,11 @@
 		//----------- Help Desk E-mail Start ----------//
 		//
 		//E-mail Setup
-		ini_set('SMTP', 'smtp.desales.edu');
+		ini_set('SMTP', 'exchange.desales.edu');
 		ini_set('sendmail_from', $email);
 		
 		//Send the help desk ticket
-		$to      = 'HelpDesk@Desales.edu' . ', '; //Change this to HelpDesk@desales.edu when live (production only)!
-		$to     .= $email;
+		$to      = 'stephen.turoscy@desales.edu' . ', ' . $email; //Change this to HelpDesk@desales.edu when live (production only)!
 		$subject = 'Request for Software Installation';
 		$message =  
 		"<div>
@@ -90,9 +89,9 @@
 		$message = wordwrap($message, 70);
 		
 		//Set the headers for the message (includes html content)
-		$headers  = 'MIME-Version: 1.0' . "\r\n";
-		$headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
-		$headers .= 'From: ' . $email . '';
+		$headers  = "MIME-Version: 1.0\r\n";
+		$headers .= "Content-type: text/html; charset=iso-8859-1\r\n";
+		$headers .= "From: \"" . $email . "\"\n";
 		
 		//Sends the e-mail to the help desk
 		mail($to, $subject, $message, $headers);

@@ -479,6 +479,7 @@ blockquote ul {list-style-type: decimal; margin-left: 35px;}
 	}
 	
 	#browse-result-tabs {margin-top: 10px;}
+	#browse-result-tabs a img {margin-top: 5px;}
 	#hardware-list {
 		color: #535353; 
 		font-size: 0.85em; 

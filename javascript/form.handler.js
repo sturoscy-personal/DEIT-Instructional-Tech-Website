@@ -153,7 +153,7 @@ google.setOnLoadCallback(function() {
 					
 		$.ajax({
 			type: "POST",
-			url: "includes/request.class.php",
+			url: "./includes/request.class.php",
 			data: dataString,
 			success: function(result){
 				if (result == "error") {
@@ -178,6 +178,9 @@ google.setOnLoadCallback(function() {
 						});
 					});
 				}
+			},
+			error: function(xhr, ajaxOptions, thrownError) {
+				console.log(thrownError);
 			}
 		});
 	});
