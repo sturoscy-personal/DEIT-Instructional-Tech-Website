@@ -1,0 +1,15 @@
+Domain Name:	deit.desales.edu
+reCAPTCHA will only work on this domain and subdomains. If you have more than one domain (or a staging server), you can create a new set of keys.
+
+Public Key:	6Lc8cAwAAAAAAFPn9rmfnDclgl8mgQnRHjaxraXU
+Use this in the JavaScript code that is served to your users
+
+Private Key:	6Lc8cAwAAAAAAPzoQ7D8THpUwYj_Nckj11Poe25R
+Use this when communicating between your server and our server. Be sure to keep it a secret.
+
+Resources:
+reCAPTCHA plugins and libraries
+reCAPTCHA API Documentation
+Now what? If you just signed up for a set of keys, you now need to install reCAPTCHA on your site. This is done in two parts. First, you need to add some 
+HTML that displays the reCAPTCHA widget. Second, you need to configure your form to contact our servers to verify reCAPTCHA solutions. Here are specific
+ instructions for: PHP, WordPress, and MediaWiki. For other environments, visit our resources page.

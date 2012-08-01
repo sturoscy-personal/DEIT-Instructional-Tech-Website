@@ -1,0 +1,4 @@
+# .gitignore
+
+database.class.php
+thumbs.db
